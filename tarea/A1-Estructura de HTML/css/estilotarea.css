@@ -1,0 +1,17 @@
+#tabla{
+    border: 1px solid black;
+    width: 100%;
+    height: auto;
+}
+#linea{
+    border: 1px solid black;
+    width: 100%;
+    height: auto;
+}
+#menu{
+    border: 1px solid black;
+    width: 300px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
